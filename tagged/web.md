@@ -56,6 +56,11 @@ ElephantSQL - PostgreSQL as a Service. The most advanced open-source database, h
 _<sup>https://loading.io/</sup>_
 
 * **tags**: [web](../tagged/web.md)
+
+#### [What is the Difference between Hashing and Encryption?](https://comparecheapssl.com/what-is-the-difference-between-hashing-and-encryption/)
+_<sup>https://comparecheapssl.com/what-is-the-difference-between-hashing-and-encryption/</sup>_
+
+* **tags**: [web](../tagged/web.md)
 ---
 #### [How SSL certificate Works, SSL encryption process](https://aboutssl.org/how-ssl-certificate-work/)
 _<sup>https://aboutssl.org/how-ssl-certificate-work/</sup>_
@@ -371,6 +376,7 @@ Curated list of awesome lists
 _<sup>http://5by5.tv/bigwebshow</sup>_
 
 The award winning Big Web Show features special guests and topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
+
 
 Hosted ...
 * **tags**: [podcast](../tagged/podcast.md), [web](../tagged/web.md)
